@@ -1,5 +1,4 @@
 import { useState } from "react";
-import "./App.css";
 import markdownSample from "./assets/sampleMarkdown.json";
 import Markdown from "react-markdown";
 
