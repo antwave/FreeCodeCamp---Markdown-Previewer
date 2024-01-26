@@ -10,7 +10,6 @@ function App() {
     <>
       <div id="background">
         <h1>ANT.WAV's Markdown Previewer</h1>
-
         <div className="window">
           <label htmlFor="editor">Type your Makrdown here!</label>
           <textarea
